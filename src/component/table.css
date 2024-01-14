@@ -1,0 +1,19 @@
+.table{
+    align-items: center;
+    margin: auto;
+    width: 70%;
+    border: 1px solid black;
+}
+
+.tableName{
+    position: relative;
+    float: right;
+    margin-right: -15%;
+    width: 50%;
+    margin-top: 25px;
+}
+
+.editName{
+    margin-left: 10px;
+    margin-right: 20px;
+}

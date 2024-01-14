@@ -1,0 +1,12 @@
+.cards{
+    width: 18rem;
+    height: 20rem;
+    margin:50px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.title-fullWidth{
+    width: inherit;
+}
