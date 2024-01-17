@@ -4,15 +4,6 @@ if you need to change values in frontend edit reactjs files than run 'npm run bu
 
 # Screenshots :
 
-<img width="1440" alt="Screenshot 2024-01-17 at 2 25 12 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/45ef47f4-7cd3-4dce-8330-ecdaa7c47264">
-
-<img width="1440" alt="Screenshot 2024-01-17 at 2 25 19 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/5cbed3a2-b912-412f-9c56-4fdc891a51c9">
-
-<img width="1440" alt="Screenshot 2024-01-17 at 2 25 26 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/4dfbfe10-286d-4d2a-a45f-ae27f25cea72">
-
-<img width="1440" alt="Screenshot 2024-01-17 at 2 25 32 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/57ea325c-8ff5-4ea0-960f-7ee7e5c1db3f">
-
-<img width="1440" alt="Screenshot 2024-01-17 at 2 37 56 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/155416a8-d8f8-4552-8391-842f11ae5c53">
 
 <img width="1440" alt="Screenshot 2024-01-18 at 1 56 59 AM" src="https://github.com/YashrajSinghChouhan/CRUDproject/assets/156017001/adcb0651-9441-44a9-a016-04325926c05b">
 
